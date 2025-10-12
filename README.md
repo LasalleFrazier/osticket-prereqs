@@ -21,7 +21,7 @@ Deployed and configured osTicket, an open-source help desk ticketing system, on 
 
 ---
 
-## Installation Steps
+## Installation Step
 
 ### 1. Create Azure Virtual Machine
 
