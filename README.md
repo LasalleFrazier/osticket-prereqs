@@ -25,7 +25,7 @@ Deployed and configured osTicket, an open-source help desk ticketing system, on 
 
 ### 1. Create Azure Virtual Machine
 
-![image](create-azure-machine.png)
+![image]((https://github.com/LasalleFrazier/assets/blob/main/create-azure-machine.png))
 
 Created Windows 10 VM in Azure with 4 vCPUs
 
