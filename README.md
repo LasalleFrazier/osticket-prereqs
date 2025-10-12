@@ -21,7 +21,7 @@ Deployed and configured osTicket, an open-source help desk ticketing system, on 
 
 ---
 
-## Installation Step
+## Installation Steps
 
 ### 1. Create Azure Virtual Machine
 
@@ -34,7 +34,7 @@ Created Windows 10 VM in Azure with 4 vCPUs
 
 ### 2. Install IIS with CGI
 
-![image](screenshot-url-here)
+![image](https://raw.githubusercontent.com/LasalleFrazier/assets/main/install-iis.png)
 
 Enabled IIS in Windows Features with CGI support
 
@@ -43,7 +43,8 @@ Enabled IIS in Windows Features with CGI support
 
 ### 3. Install PHP Manager & Dependencies
 
-![image](screenshot-url-here)
+![image](https://raw.githubusercontent.com/LasalleFrazier/assets/main/install-php.png)
+![image](https://raw.githubusercontent.com/LasalleFrazier/assets/main/register-php.png)
 
 Installed required components:
 
@@ -55,8 +56,7 @@ Installed required components:
 
 ### 4. Install MySQL Database
 
-![image](screenshot-url-here)
-
+![image](https://raw.githubusercontent.com/LasalleFrazier/assets/main/install-iis.png)
 Installed MySQL 5.5.62
 
 - Standard Configuration
@@ -64,7 +64,8 @@ Installed MySQL 5.5.62
 
 ### 5. Install osTicket
 
-![image](screenshot-url-here)
+![image](https://raw.githubusercontent.com/LasalleFrazier/assets/main/install-sql.png)
+![image](https://raw.githubusercontent.com/LasalleFrazier/assets/main/rename-osticket.png)
 
 Deployed osTicket application:
 
@@ -74,7 +75,7 @@ Deployed osTicket application:
 
 ### 6. Enable PHP Extensions
 
-![image](screenshot-url-here)
+![image](https://raw.githubusercontent.com/LasalleFrazier/assets/main/enable-extensions.png)
 
 Enabled required extensions via PHP Manager:
 
@@ -84,7 +85,8 @@ Enabled required extensions via PHP Manager:
 
 ### 7. Configure osTicket
 
-![image](screenshot-url-here)
+![image](https://raw.githubusercontent.com/LasalleFrazier/assets/main/osticket-installed.png)
+![image](https://raw.githubusercontent.com/LasalleFrazier/assets/main/heidi-sql.png)
 
 Completed setup:
 
@@ -92,15 +94,6 @@ Completed setup:
 - Set permissions for Everyone
 - Created database in HeidiSQL
 - Configured osTicket via browser
-
-### 8. Post-Installation Cleanup
-
-![image](screenshot-url-here)
-
-Secured the installation:
-
-- Deleted C:\inetpub\wwwroot\osTicket\setup folder
-- Set ost-config.php to Read-only
 
 ---
 
