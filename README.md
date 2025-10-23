@@ -8,6 +8,10 @@
 
 Deployed and configured osTicket, an open-source help desk ticketing system, on a Windows 10 VM in Azure using IIS, PHP, and MySQL.
 
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute]([https://www.youtube.com](https://www.youtube.com/watch?v=VRnegKfQFxc))
+
 ## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines)
