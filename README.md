@@ -10,7 +10,8 @@ Deployed and configured osTicket, an open-source help desk ticketing system, on 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute][(https://www.youtube.com/watch?v=VRnegKfQFxc)]
+[![osTicket Setup on Microsoft Azure | Install & Configure with SQL + PHP (Part 1/3)](https://img.youtube.com/vi/VRnegKfQFxc/0.jpg)](https://www.youtube.com/watch?v=VRnegKfQFxc)
+
 
 ## Environments and Technologies Used
 
